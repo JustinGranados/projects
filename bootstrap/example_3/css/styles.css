@@ -1,0 +1,50 @@
+.wrapper{
+	height: 600px;
+	background: #0f0;
+}
+
+.up{
+	background: #f00;
+	height: 33.5%;
+}
+
+.search{
+	background: #0b0;
+	height: 33.5%;
+}
+
+.news{
+	background: #00f;
+	height: 33%;
+}
+
+.sports{
+	background: #a6b;
+	height: 33%;
+}
+
+.technology{
+	background: #030;
+	height: 16.75%;
+	float: left;
+}
+
+.about{
+	background: #03f;
+	height: 16.75%;
+}
+
+.international{
+	background: #000;
+	height: 33.5%;
+}
+.magazine{
+	background: #030;
+	height: 16.75%;
+}
+
+.games{
+	background: #a40;
+	height: 16.75%;
+	float: left;
+}

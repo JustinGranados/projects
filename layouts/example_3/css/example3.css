@@ -1,0 +1,65 @@
+body{
+	background:#f00;
+	margin: 0;
+
+}
+/*.reports{
+	background:#00f;
+	width: 364px;
+	height: 200px;
+	float: left;
+
+}
+/*footer{
+	background: #aaa;
+	height: 200px;
+	width: 364;
+	clear: both;
+}
+*/
+.wrapper{
+	background: #CCC;
+	width: 728px;
+	height: 600px;
+	margin: 0 auto; 
+
+}
+.news{
+	background: #0f0;
+	width: 728px;
+	height: 100px;
+	float: left;
+
+}
+.sports{
+	background:#f0f;
+	width: 728px;
+	height: 100px;
+	float: right;
+}
+nav{
+	background: #ca5;
+	width: 364px;
+	height: 200px;
+	float: left;
+}
+.search{
+	background: #4c5;
+	width: 364px;
+	height: 200px;
+	float: right;
+}
+.object1{
+	background: #1c5;
+	width: 364px;
+	height: 200px;
+	float: left;
+
+}
+.object2{
+	background: #3a5;
+	width: 364px;
+	height: 200px;
+	float: right;
+}
+

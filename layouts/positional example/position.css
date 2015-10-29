@@ -1,0 +1,35 @@
+body{
+	background: #000;
+}
+.news{
+	position: absolute;
+	background: #f00;
+	margin: 0 auto;
+	height: 100px;
+	width: 200px;
+	top: 50px;
+	left: 50px;
+}
+.wrapper{
+	background: #0f0;
+	margin: 0 auto;
+	height: 1000px;
+	width: 900px;
+	padding: 50px;
+}
+header{
+	background: #a9F;
+	margin: 0 auto;
+	height: 500px;
+	width: 400px;
+	margin: 0 auto;
+}
+nav{
+	position: relative;
+	background: #f55;
+	margin: 0 auto;
+	height: 100px;
+	width: 200px;
+	top: 50px;
+	left: 50px;
+}

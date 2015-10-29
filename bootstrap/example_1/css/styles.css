@@ -1,0 +1,28 @@
+.wrapper{
+	height: 599px;
+	background: #0f0;
+}
+
+.up{
+	background: #f00;
+	height: 33.5%
+}
+
+.news{
+	background: #00f;
+	height: 33%
+}
+
+.sports{
+	background: #a6b;
+	height: 33%
+}
+
+.international{
+	background: #000;
+	height: 33%
+}
+footer{
+	background: #0b0;
+	height: 33.5%
+}

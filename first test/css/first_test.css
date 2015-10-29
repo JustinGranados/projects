@@ -1,0 +1,114 @@
+body{
+	background: #ccc;
+}
+
+.wrapper{
+	background: #0f0;
+	height: 630px;
+	width: 730px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border: 1px solid;
+}
+
+header{
+	background: url("../sample/images/banner_top.jpg");
+	height: 71px;
+	width: 730px;
+	margin: 0 auto;
+	border: 1px solid;
+}
+
+main{
+	height: 584px;
+	width: 728px;
+	border: 1px solid grey;
+}
+
+nav{
+	background: #4ff;
+	height: 72px;
+	width: 728px;
+}
+
+li{
+
+	display: block;
+	padding: 31px 0 0 45px;
+	font: 11px Verdana;
+	float: left;
+	background: #62d;
+	margin: 0 20px 0 5px;
+
+}
+
+.banner{
+	background: #00f;
+	height: 303px;
+	width: 728px;
+}
+
+.live{
+	
+	height: 81px;
+	width: 492px;
+	float: left;
+	padding-top: 12px;
+	padding-left: 28px;
+	border: 1px solid grey;	
+}		
+
+.ticket{
+	
+	height: 81px;	
+	width: 500px;
+	float: left;
+	padding-top: 4px;
+	padding-left: 20px;
+	border: 1px solid grey;
+}
+
+form{
+background: #000;
+height: 182px;
+width: 193px;
+float: right;
+margin-left: 10px;
+border: 1px solid grey;
+}
+
+h1{	
+padding-left: 109px; 
+padding-top: 20px;
+text-align: center;
+font: 28px "Arial", Arial, serif;
+color: #3B8100;
+}
+
+footer{
+
+}
+
+a{
+	color: white;
+}
+
+h2{
+	display: block;
+	padding: 0 52px 40px 0;
+	float: right;
+}
+
+p{
+	display: block;
+	padding: 0 0 50px 6px;
+	clear: both;
+	font: 10px "Arial", Arial, serif;
+
+}
+
+h3{
+	display: block;
+	padding: 0 5px 40px 0;
+	float: right;
+}
